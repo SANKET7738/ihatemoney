@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 21:50+0200\n"
+"POT-Creation-Date: 2020-07-26 22:04+0200\n"
 "PO-Revision-Date: 2020-05-28 05:41+0000\n"
 "Last-Translator: Natalie Jann <nataliejann@live.com>\n"
 "Language: es_419\n"
@@ -39,6 +39,9 @@ msgstr "Registrar la IPs para el historial del proyecto"
 
 msgid "Default Currency"
 msgstr "moneda predeterminada"
+
+msgid "⚠ All bill currencies will be removed"
+msgstr ""
 
 msgid "Import previously exported JSON file"
 msgstr "Importar archivo JSON previamente exportado"

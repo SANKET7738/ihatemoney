@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-30 21:50+0200\n"
+"POT-Creation-Date: 2020-07-26 22:04+0200\n"
 "PO-Revision-Date: 2020-04-28 07:11+0000\n"
 "Last-Translator: Vsevolod <sevauserg.com@gmail.com>\n"
 "Language: ru\n"
@@ -39,6 +39,9 @@ msgid "Use IP tracking for project history"
 msgstr "Использовать отслеживание по IP для истории проекта"
 
 msgid "Default Currency"
+msgstr ""
+
+msgid "⚠ All bill currencies will be removed"
 msgstr ""
 
 msgid "Import previously exported JSON file"
